@@ -34,8 +34,6 @@ WHERE weight_kg BETWEEN 10.4 AND 17.3;
 
 BEGIN; -- Begin the FIRST transaction
 
-BEGIN; -- Begin the transaction
-
 -- Update the animals table by setting the species column to "unspecified" for all animals
 UPDATE animals
 SET species = 'unspecified';
