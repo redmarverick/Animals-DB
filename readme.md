@@ -10,11 +10,13 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -38,6 +40,16 @@
     <li><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></li>
   </ul>
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Key Features <a name="key-features"></a>
+
+- **Query multiple tables**
+- **Multiple join queries**
+- **Using schema**
+- **Using data into tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,6 +91,14 @@ To run the project, execute the commands inside the .sql folders, on the followi
 - GitHub: [@Nylbert Victor](https://github.com/redmarverick)
 - Twitter: [@Nylbert Victor](https://twitter.com/MarverickRed)
 - LinkedIn: [Nylbert Victor](https://www.linkedin.com/in/nylbert-victor-397951120/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
