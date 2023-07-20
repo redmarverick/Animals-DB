@@ -187,7 +187,7 @@ LIMIT 1;
 
 /*
 Write queries to answer the following:
-*/
+
 
 /* Who was the last animal seen by William Tatcher? */
 
@@ -271,3 +271,11 @@ WHERE ve.name = 'Maisy Smith'
 GROUP BY s.name
 ORDER BY COUNT(*) DESC
 LIMIT 1;
+*/
+
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 12;
+
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
+

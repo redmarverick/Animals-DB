@@ -7,20 +7,21 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 Animals DB ](#-animals-db-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -50,6 +51,7 @@
 - **Multiple join queries**
 - **Using schema**
 - **Using data into tables**
+- **Performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,13 +94,20 @@ To run the project, execute the commands inside the .sql folders, on the followi
 - Twitter: [@Nylbert Victor](https://twitter.com/MarverickRed)
 - LinkedIn: [Nylbert Victor](https://www.linkedin.com/in/nylbert-victor-397951120/)
 
+👤 **Martín Ezequiel González**
+
+- GitHub: [@Mar12358](https://github.com/Mar12358)
+- Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
+- LinkedIn: [Martin Ezequiel Gonzalez](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Performance audit**
+- [ ] **Create Schema Diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
