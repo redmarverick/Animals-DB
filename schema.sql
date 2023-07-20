@@ -78,7 +78,6 @@ id: integer (set it as autoincremented PRIMARY KEY)
 name: string
 age: integer
 date_of_graduation: date
-*/
 
 CREATE TABLE vets (
   id SERIAL PRIMARY KEY,
@@ -108,3 +107,15 @@ CREATE TABLE visits (
   vet_id INTEGER REFERENCES vets (id),
   visit_date DATE,
 );
+*/
+
+-- First improve on performance
+CREATE INDEX ON visits (animal_id);
+
+-- Second improve
+CREATE INDEX ON visits (vet_id);
+CREATE TEMPORARY TABLE temp_visits AS SELECT * FROM visits WHERE vet_id = 2;
+CREATE INDEX ON temp_visits (vet_id);
+
+-- Third improve
+CREATE INDEX ON owners (email);
