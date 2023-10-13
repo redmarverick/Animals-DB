@@ -19,6 +19,7 @@ ADD COLUMN species VARCHAR;
 /* Create a table named owners with the following columns:
 id: integer (set it as autoincremented PRIMARY KEY)
 full_name: string
+age: integer
 vvvvvvvvv*/
 
 CREATE TABLE owners (
